@@ -1,5 +1,5 @@
 # Mini Tank Robot
-Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails!
+The mini tank robot fairly simple as its build is very comprehensible and easy to follow. While the components that make up the parts of the tank are not difficult to create, it is hard to ensure that all aspects of the tank are put together correctly so that the tank is able to move. While the code that allows the tank is prewritten, one could alternatively write their own code or modify the tank with a variety of different adjustments such as ones regarding the LED, bluetooth control, and the sensor.
 
 You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:
 ```HTML 
