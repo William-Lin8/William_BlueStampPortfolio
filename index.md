@@ -43,11 +43,9 @@ For your second milestone, explain what you've worked on since your previous mil
 
 # First Milestone
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ruGNWdcl2Ac" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-My first milestone was the entirety of the building 
+My first milestone includes the building process and the process of trying to get the tank to move. As of the first milestone, the tank is following a prewritten program that makes it move foward then backwards, and turns 180 in both direction. The code was uploaded from the Arduino IDE program onto the development board that is attached to the tank. The tank is powered by five 1.5 volts batteries. They are connected to the motor shield which sits on top of the development board. The wiring for the motors are also connected to the motor shield and this allows them to turn the wheels to get the tank to move and turn.
 
 # Schematics 
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
