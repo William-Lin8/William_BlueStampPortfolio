@@ -21,25 +21,7 @@ You should comment out all portions of your portfolio that you have not complete
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-For your final milestone, explain the outcome of your project. Key details to include are:
-- What you've accomplished since your previous milestone
-- What your biggest challenges and triumphs were at BSE
-- A summary of key topics you learned about
-- What you hope to learn in the future after everything you've learned at BSE
-
-
-
-# Second Milestone
-
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
-- Technical details of what you've accomplished and how they contribute to the final goal
-- What has been surprising about the project so far
-- Previous challenges you faced that you overcame
-- What needs to be completed before your final milestone 
+In my first milestone, I was able to get the tank to move in a specific manner through a code that imported from the Arduino Program. The code told the tank to move in a specific and repeating manner the was preset in the code. In this milestone, the code that was imported allowed the tank to be controlled via a remote contoller. To do this, the IR Receiver on the front of the tank needed to be linked to the sensor shield that sat ontop of the motor shield and the development board. The IR Receiver's job is to take in signals from the remote controller in order for the tank to be able to sense them and respond accordingly which was set in the code. Right now, the tank can perform 6 actions. It can move foward and backwards, turn left and right in a stationary manner, and move left and right at a small angle.
 
 # First Milestone
 
@@ -75,11 +57,3 @@ Don't forget to place the link of where to buy each component inside the quotati
 | Mini Tank Kit | Components and tools for build | $69.99 | <a href="https://www.amazon.com/KEYESTUDIO-Infrared-Ultrasonic-Obstacle-Avoidance/dp/B07X4W7SZ5"> Link </a> |
 | Batteries |Power the tank | $8.83 | <a href="https://www.amazon.com/AmazonBasics-Volt-Performance-Alkaline-Batteries/dp/B081FGTPB7/ref=sr_1_5?keywords=1.5+v+alkaline+aa+lr6+battery&qid=1689345655&s=electronics&sprefix=1.5+v+%2Celectronics%2C89&sr=1-5"> Link </a> |
 | Multimeter | Test voltage of electrical parts | $9.98 | <a href="https://www.amazon.com/Etekcity-Multimeter-MSR-R500-Electronic-Multimeters/dp/B01N9QW620/ref=sr_1_3_sspa?keywords=multimeter&qid=1689345705&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1"> Link </a> |
-
-# Other Resources/Examples
-One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
-- [Example 1](https://trashytuber.github.io/YimingJiaBlueStamp/)
-- [Example 2](https://sviatil0.github.io/Sviatoslav_BSE/)
-- [Example 3](https://arneshkumar.github.io/arneshbluestamp/)
-
-To watch the BSE tutorial on how to create a portfolio, click here.
