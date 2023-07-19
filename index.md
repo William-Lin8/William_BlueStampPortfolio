@@ -1,11 +1,6 @@
 # Mini Tank Robot
 The mini tank robot is a straightfoward build as its build is very comprehensible and easy to follow. While the components that make up the parts of the tank are not difficult to create, it is hard to ensure that all aspects of the tank are put together correctly so that the tank is able to move. While the code that allows the tank to move is prewritten, one could alternatively write their own code or modify the tank with a variety of different adjustments such as ones regarding the LED, bluetooth control, and the sensor.
 
-You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:
-```HTML 
-<!--- This is an HTML comment in Markdown -->
-<!--- Anything between these symbols will not render on the published site -->
-```
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
@@ -17,17 +12,20 @@ You should comment out all portions of your portfolio that you have not complete
   
 # Final Milestone
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-In my first milestone, I was able to get the tank to move in a specific manner through a code that imported from the Arduino Program. The code told the tank to move in a specific and repeating manner the was preset in the code. In this milestone, the code that was imported allowed the tank to be controlled via a remote contoller. To do this, the IR Receiver on the front of the tank needed to be linked to the sensor shield that sat ontop of the motor shield and the development board. The IR Receiver's job is to take in signals from the remote controller in order for the tank to be able to sense them and respond accordingly which was set in the code. Right now, the tank can perform 6 actions. It can move foward and backwards, turn left and right in a stationary manner, and move left and right at a small angle.
+
+In my first milestone, I was able to get the tank to move in a specific manner through a code that imported from the Arduino Program. The code told the tank to move in a specific and repeating manner the was preset in the code. In this milestone, the code that was imported allowed the tank to be controlled via a remote contoller. To do this, the IR Receiver on the front of the tank needed to be linked to the sensor shield that sat ontop of the motor shield and the development board. The IR Receiver's job is to take in signals from the remote controller in order for the tank to be able to sense them and respond accordingly which was set in the code. Right now, the tank can 
+perform 6 actions. It can move foward and backwards, turn left and right in a stationary manner, and move left and right at a small angle.
+
 
 # First Milestone
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ruGNWdcl2Ac" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+
 My first milestone includes the building process and the process of trying to get the tank to move. As of the first milestone, the tank is following a prewritten program that makes it move foward then backwards, and turns 180 in both direction. The code was uploaded from the Arduino IDE program onto the development board that is attached to the tank. The tank is powered by five 1.5 volts batteries. They are connected to the motor shield which sits on top of the development board. The wiring for the motors are also connected to the motor shield and this allows them to turn the wheels to get the tank to move and turn.
+
 
 # Schematics 
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
